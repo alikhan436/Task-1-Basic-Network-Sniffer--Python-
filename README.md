@@ -17,5 +17,5 @@ A Python-based network sniffer built using `scapy` to capture and analyze networ
 
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/CodeAlpha_Network_Sniffer.git](https://github.com/YOUR_USERNAME/CodeAlpha_Network_Sniffer.git)
+   git clone [https://github.com/YOUR_USERNAME/CodeAlpha_Network_Sniffer.git](https://github.com/alikhan436/CodeAlpha_Network_Sniffer.git)
    cd CodeAlpha_Network_Sniffer
